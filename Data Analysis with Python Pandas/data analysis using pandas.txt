@@ -1,0 +1,24 @@
+display dataframe
+first 3 rows 
+last 3 rows 
+shape
+no of rows 
+no of columns
+get information about dataset 
+check null values in the dataset 
+get overall statistics about the dataset (for numerical column)
+get overall statistics about the dataset (for all columns)
+find unique values from the specific column
+No of unique values 
+count of unique values in gender column
+Find total no of students having marks between 90 to 100 (inclusive using between method)
+find average marks
+min
+max
+use of apply method
+use of lambda function
+Map Function
+drop the columns
+name of columns
+row indexes
+sort the DataFrame as per the specific column
