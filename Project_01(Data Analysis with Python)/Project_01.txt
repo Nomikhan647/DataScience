@@ -1,0 +1,11 @@
+Project 01 (Data Analysis using Python)
+
+Display top 10 rows of the dataset 
+Display last 10 rows of the dataset
+Check the datatype of each column 
+Check the Null values in the dataset
+Check how many rows and columns are there in our dataset
+Highest and Lowest purchase prices
+Average Purchase Price
+How many people have French "fr" as their languages
+Job Title contains Engineer
